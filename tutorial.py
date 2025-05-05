@@ -31,7 +31,7 @@ vcf = Mutlib()
 ###########
 ### integration of 4 callers
 
-for sampleno in range(22):
+for sampleno in range(len(filenamelist)/4):
     vcf.fourcallers(sampleno = sampleno, filenamelist = filenamelist, filepath = filepath, savepath=savepath)
 
 print('...END...')
