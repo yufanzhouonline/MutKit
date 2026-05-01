@@ -1,5 +1,5 @@
 # MutKit
-MutKit: a versatile python package for four-caller intergration of mutation and structure variation
+MutKit: a versatile python package for mutation detection, integration and visualization
 
 # Citation:
 
