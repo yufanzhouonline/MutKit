@@ -9,5 +9,5 @@ MutKit: a versatile python package for four-caller intergration of mutation and 
 
 # Usage:
 
-Please refer to:
+For four-caller intergration of mutation and structure variation, please refer to:
 https://github.com/yufanzhouonline/MutKit/blob/main/tutorial.py
