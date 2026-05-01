@@ -1,3 +1,8 @@
+########################################################################
+##### A python library for reading and analysis of mutation data  ######
+#####                by Yufan (Harry) Zhou at 2024/09/13          ######
+########################################################################
+
 from mutpattern import *
 
 class Mutsv(Mutpattern):
