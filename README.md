@@ -1,9 +1,9 @@
 # MutKit
-MutKit: a versatile python package for mutation detection, integration and visualization
+MutKit: a versatile python package for four-caller intergration of mutation and structure variation
 
 # Citation:
 
-Yufan Zhou. (2025) MutKit: a versatile python package for mutation detection, integration and visualization. Github. https://github.com/yufanzhouonline/MutKit.
+Yufan Zhou. (2025) MutKit: a versatile python package for four-caller intergration of mutation and structure variation. Github. https://github.com/yufanzhouonline/MutKit.
 
 
 # Usage:
