@@ -12,3 +12,7 @@ MutKit: a versatile python package for mutation detection, integration and visua
 For four-caller intergration of mutation and structure variation, please refer to:
 
 https://github.com/yufanzhouonline/MutKit/blob/main/tutorial.py
+
+For extract reads ID:
+
+https://github.com/yufanzhouonline/MutKit/blob/main/extract_reads_id.sh
