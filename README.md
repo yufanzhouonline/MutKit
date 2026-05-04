@@ -17,6 +17,6 @@ For four-caller intergration of structure variation, please refer to:
 
 https://github.com/yufanzhouonline/MutKit/blob/main/tutorial_sv.py
 
-For extract reads ID:
+For extract reads ID, please refer to:
 
 https://github.com/yufanzhouonline/MutKit/blob/main/extract_reads_id.sh
