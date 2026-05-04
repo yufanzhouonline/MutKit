@@ -1,6 +1,6 @@
 ########################################################################
-#####     Extract sequencing ID from bam files by samtools         #####
-#####                by Yufan (Harry) Zhou at 2025/10/14          ######
+######     Extract sequencing ID from bam files by samtools       ######
+######              by Yufan (Harry) Zhou at 2025/10/14           ######
 ########################################################################
 
 #!/bin/bash
