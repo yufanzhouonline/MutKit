@@ -104,5 +104,5 @@ if __name__ == "__main__":
     file_list = os.listdir(input_path)
     for filename in file_list:
         outputname = filename[:-4] + '.revised.vcf'
-        converter = TXT2VCF(input_file=input_path+filename, output_file=output_path+filename)
+        converter = TXT2VCF(input_file=input_path+filename, output_file=output_path+outputname)
         converter.convert()
