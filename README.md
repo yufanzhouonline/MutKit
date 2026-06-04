@@ -9,11 +9,11 @@ MutKit: a versatile python package for mutation detection, integration and visua
 
 # Usage:
 
-For four-caller intergration of mutation, please refer to:
+For four-caller integration of mutation, please refer to:
 
 https://github.com/yufanzhouonline/MutKit/blob/main/tutorial_mut.py
 
-For four-caller intergration of structure variation, please refer to:
+For four-caller integration of structure variation, please refer to:
 
 https://github.com/yufanzhouonline/MutKit/blob/main/tutorial_sv.py
 
